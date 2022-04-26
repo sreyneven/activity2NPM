@@ -37,5 +37,3 @@
 // 6- INstall the NPM dependancies
 
 // 7 Run it : it should work and you should have the /node_modules created
-
-//test
